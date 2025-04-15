@@ -4,6 +4,11 @@
       "name": "logging.aspect.enable",
       "type": "java.lang.Boolean",
       "description": "Enables or disables ."
+    },
+    {
+      "name": "logging.aspect.level",
+      "type": "java.lang.String",
+      "description": "levels: info,warn,debug,error ."
     }
   ]
 }
