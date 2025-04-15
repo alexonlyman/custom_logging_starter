@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "logging.aspect.enable",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables ."
+    }
+  ]
+}
